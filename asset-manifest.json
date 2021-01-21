@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/andonis-project/static/css/main.c5ded8cc.chunk.css",
+    "main.js": "/andonis-project/static/js/main.2e68ab9d.chunk.js",
+    "main.js.map": "/andonis-project/static/js/main.2e68ab9d.chunk.js.map",
+    "runtime-main.js": "/andonis-project/static/js/runtime-main.e3bae256.js",
+    "runtime-main.js.map": "/andonis-project/static/js/runtime-main.e3bae256.js.map",
+    "static/js/2.3ef0a5b6.chunk.js": "/andonis-project/static/js/2.3ef0a5b6.chunk.js",
+    "static/js/2.3ef0a5b6.chunk.js.map": "/andonis-project/static/js/2.3ef0a5b6.chunk.js.map",
+    "index.html": "/andonis-project/index.html",
+    "static/css/main.c5ded8cc.chunk.css.map": "/andonis-project/static/css/main.c5ded8cc.chunk.css.map",
+    "static/js/2.3ef0a5b6.chunk.js.LICENSE.txt": "/andonis-project/static/js/2.3ef0a5b6.chunk.js.LICENSE.txt",
+    "static/media/pic1.af4bbd09.jpg": "/andonis-project/static/media/pic1.af4bbd09.jpg",
+    "static/media/pic2.1a1e7b89.jpg": "/andonis-project/static/media/pic2.1a1e7b89.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3bae256.js",
+    "static/js/2.3ef0a5b6.chunk.js",
+    "static/css/main.c5ded8cc.chunk.css",
+    "static/js/main.2e68ab9d.chunk.js"
+  ]
+}
