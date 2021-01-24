@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/andonis-project/static/css/main.4c9b17d6.chunk.css",
-    "main.js": "/andonis-project/static/js/main.61b233c5.chunk.js",
-    "main.js.map": "/andonis-project/static/js/main.61b233c5.chunk.js.map",
+    "main.js": "/andonis-project/static/js/main.331fbf60.chunk.js",
+    "main.js.map": "/andonis-project/static/js/main.331fbf60.chunk.js.map",
     "runtime-main.js": "/andonis-project/static/js/runtime-main.e3bae256.js",
     "runtime-main.js.map": "/andonis-project/static/js/runtime-main.e3bae256.js.map",
     "static/js/2.18b1b662.chunk.js": "/andonis-project/static/js/2.18b1b662.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e3bae256.js",
     "static/js/2.18b1b662.chunk.js",
     "static/css/main.4c9b17d6.chunk.css",
-    "static/js/main.61b233c5.chunk.js"
+    "static/js/main.331fbf60.chunk.js"
   ]
 }
